@@ -10,4 +10,3 @@ public class AnotherMainClass {
         System.out.println("Another Hello!");
     }
 }
-
